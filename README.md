@@ -1,5 +1,10 @@
 # Django_Site
-Simple, but good one page site:blush:
+Simple, but good adaptive one page site:blush:
+
+Technology:
+Django
+HTML
+CSS(Bootstrap)
 
 
 Example: 
