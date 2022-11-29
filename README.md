@@ -1,5 +1,5 @@
 # Django_Site
-Simple, but good one page site
+Simple, but good one page siteU+1F60A	
 
 
 Example: 
