@@ -2,9 +2,9 @@
 Simple, but good adaptive one page site:blush:
 
 Technology:
-Django
-HTML
-CSS(Bootstrap)
+- Django
+- HTML
+- CSS(Bootstrap)
 
 
 Example: 
